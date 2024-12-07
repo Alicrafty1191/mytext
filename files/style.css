@@ -1,0 +1,32 @@
+.login{
+    text-align: left;
+    margin-top: 20px;
+}
+
+.link{
+    color: #0000ff;
+    text-decoration: 0;
+}
+
+
+.orbar{
+    display: block;
+    margin-top: 50px;
+    color: #808080;
+    border-left: 2px solid #d3d3d3;
+    border-right: 2px solid #d3d3d3;
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.editor{
+    margin-top: 20px;
+}
+
+.space{
+    height: 500px;
+}
+
+.outbtn{
+    margin-left: 40px;
+}
